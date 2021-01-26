@@ -1,0 +1,36 @@
+{
+    "data" : {
+        "cardList" : [
+            {
+                "name": "card1",
+                "url": "img_statement_1"
+            },
+            {
+                "name": "card2",
+                "url": "../assets/img_statement_2.png"
+            },
+            {
+                "name": "card3",
+                "url": "../assets/img_statement_3.png"
+            },
+            {
+                "name": "card4",
+                "url": "../assets/img_statement_4.png"
+            },
+            {
+                "name": "card5",
+                "url": "../assets/img_statement_5.png"
+            },
+            {
+                "name": "card6",
+                "url": "../assets/img_statement_6.png"
+            }
+        ],
+        "smileyList": [
+            {
+                "name": "smiley1",
+                "url": "../assets/img.png"
+            }
+        ]
+    }
+}

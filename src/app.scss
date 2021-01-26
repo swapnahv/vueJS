@@ -1,6 +1,8 @@
-body {
-    background: blue;
+html, body {
+    background-image: linear-gradient(purple, yellow);
+    background-repeat: no-repeat;
+    height:100%;
 }
 #app {
-    background: lightblue;
+    padding-left: 30%;
 }
